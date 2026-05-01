@@ -1,0 +1,90 @@
+.container{
+    
+    width: 1300px;
+    height: 600px;
+    position: relative;
+
+}
+
+.class{
+ 
+    width: 1250px;
+    height: 250px;  
+    position: absolute;
+    left: 20px;
+}
+.class-1{
+  
+   top: 20px;
+   
+}
+.class-2{
+   top: 250px;
+}
+.subclass{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    
+}
+.subclass-1{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+
+}
+.subclass-2{
+    position: absolute;
+    top: 20px;
+    left: 320px;
+
+}
+.subclass-3{
+    position: absolute;
+    top: 20px;
+    left: 630px;
+
+}
+.subclass-4{
+    position: absolute;
+    top: 20px;
+    left: 940px;
+
+}
+.subclass-5{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+
+}
+.subclass-6{
+    position: absolute;
+    top: 20px;
+    left: 320px;
+
+}
+.subclass-7{
+    position: absolute;
+    top: 20px;
+    left: 630px;
+
+}
+.subclass-8{
+    position: absolute;
+    top: 20px;
+    left: 940px;
+
+}
+.class img{
+    width: 100%;
+}
+.subclass h3{
+    background-color: black;
+    color: white;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+
+}
