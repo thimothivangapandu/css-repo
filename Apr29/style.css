@@ -1,0 +1,23 @@
+.container{
+    
+    padding-left: 250px;
+}
+.child1{
+    display: inline-block;
+    width: 500px;
+   
+    
+
+}
+.child2{
+   
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+
+
+}
+img{
+    width: 100%;
+    
+}
